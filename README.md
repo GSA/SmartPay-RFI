@@ -4,9 +4,9 @@ The GSA Center for Charge Card Management (hereinafter “CCCM”) administers t
 CCCM is requesting industry feedback for agile software development services for the: (1) GSA SmartPay® main website and (2) GSA SmartPay® training website.
 
 # Table of Contents
-## 1.0 Background and Purpose
-### 1.1 Purpose
-#### 1.1.1 Current state
+## 1.0 [Background and Purpose](https://github.com/GSA/SmartPay-RFI/blob/main/01_draft%20RFQ.md#10-background-and-purpose)
+### 1.1 [Purpose](https://github.com/GSA/SmartPay-RFI/blob/main/01_draft%20RFQ.md#10-background-and-purpose)
+#### 1.1.1 [Current state](https://github.com/GSA/SmartPay-RFI/blob/main/01_draft%20RFQ.md#111-current-state)
 #### 1.1.2 Minimally Viable Products
 #### 1.1.3 Future state
 ### 1.2 Problems
