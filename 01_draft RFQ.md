@@ -34,6 +34,34 @@ Certificates are issued after the completion of a multiple question quiz with a 
 
 All information posted on the GSA SmartPay main website and GSA SmartPay training website is public. The government owns all code, data, image licenses, user information, and domain names.
 
+##### 1.1.2 Minimally Viable Products
+
+Currently, the CCCM program has partnered with the GSA Service Delivery team on building a minimally viable product (MVP) of the main website and training website using an iterative and user-centered delivery cadence. The Service Delivery team expects the MVP to be delivered by summer 2023 and will work with the Contractor to transition the project. 
+
+The new GSA SmartPay website (GitHub) will:
+Be hosted on Cloud.gov Pages (formerly known as Federalist).
+Leverage the static site generator, Eleventy.
+Incorporate the U.S. Web Design System. 
+
+Note: the information above for the 889 representation tool will remain the same post-MVP. 
+
+The new GSA SmartPay training website (GitHub) will be a combination of static web content and a custom training application with a database component. We expect the website will be hosted on Cloud.gov. 
+
+##### 1.1.3 Future state
+
+The CCCM is seeking a Contractor to take over the MVP and future development. The Contractor will continue to build off the open source code developed by the Service Delivery team and enhance functionality based on user needs, programmatic needs, and changes in policy. The Contractor will need to continue to add content and functionality using GitHub and support the CCCM’s ability to update content using front-end tools, such as Decap content management system (formerly known as Netflify). 
+
+The Service Delivery team is available to support transition. 
+
+Implementation and documentation is ongoing — current specifications are published to the Github repos. These repositories include supplementary information to this RFQ (see also Wikis found here and here).
+
+
+#### 1.2	Problems
+
+The current GSA SmartPay website is difficult for users to navigate intuitively. CCCM has challenges keeping content current and ensuring content is accessible to all audiences. 
+The current GSA SmartPay training website suffers from performance issues, which cause users to time-out in the middle of quizzes or experience random crashes. Since users login so infrequently, they often forget their passwords and need manual assistance in some cases to reset passwords which is a drain on CCCM resources. Reporting is limited and only available at the agency level; for large agencies, this is too untenable to track, and they’re requiring users to email agency coordinators their certificates to manually check them off a list. 
+
+
 ### 2.0 Scope
 ### 3.0 Objectives
 ### 4.0 Contract Place of Performance and Contract Type
