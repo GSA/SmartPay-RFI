@@ -33,3 +33,9 @@ Section 889 of the 2019 National Defense Authorization Act prohibits purchases f
 Certificates are issued after the completion of a multiple question quiz with a passing score of 75%. There are more than 800,000 current accounts and just under 600,000 visitors in FY22.
 
 All information posted on the GSA SmartPay main website and GSA SmartPay training website is public. The government owns all code, data, image licenses, user information, and domain names.
+
+### 2.0 Scope
+### 3.0 Objectives
+### 4.0 Contract Place of Performance and Contract Type
+### 5.0 Operating Constraints (Non-functional Requirements)
+### 6.0 Instructions and Evaluation
