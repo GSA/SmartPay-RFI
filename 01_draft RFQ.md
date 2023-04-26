@@ -160,9 +160,9 @@ CCCM intends to issue a time and materials task order under an existing contract
 - [NIST](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication) phishing resistant multi-factor authentication (MFA) shall be required for privileged and non-privileged users where login is required.  
 
 #### 5.4	Security
-The Contractor shall comply with the technology security requirements in the Federal Information Security Management Act (FISMA) (44 .S.C. 3544); the applicable National Institute of Standards and Technology; GSA IT security policies, standards and guidelines; and other Government-wide laws and regulations for protection and security of IT. The required policies and regulations are specified in Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48 (Attachment A) or latest version and Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30 or latest version (Attachment B). 
+The Contractor shall comply with the technology security requirements in the Federal Information Security Management Act (FISMA) (44 .S.C. 3544); the applicable National Institute of Standards and Technology; GSA IT security policies, standards and guidelines; and other Government-wide laws and regulations for protection and security of IT. The required policies and regulations are specified in Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48 ([Attachment A](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20A_Security%20and%20Privacy%20Requirements%20for%20IT%20Acquisition%20Efforts%20CIO-IT%20Security-09-48.pdf)) or latest version and Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30 or latest version ([Attachment B](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20B_Managing%20Enterprise%20Cybersecurity%20Risk%20CIO-IT%20Security-06-30.pdf)). 
 
-Security compliance will be continuous through DevSecOps practices and via user stories issued in sprint planning. Additional information about security and confidentiality requirements can be found in the current version of CIO_21001N_GSA_Information_Technology_Security_Policy (Attachment C).
+Security compliance will be continuous through DevSecOps practices and via user stories issued in sprint planning. Additional information about security and confidentiality requirements can be found in the current version of CIO_21001N_GSA_Information_Technology_Security_Policy ([Attachment C](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20C_CIO_21001N_GSA_Information_Technology_Security_Policy.pdf)).
 
 ##### 5.4.1 Specific Security Requirements
 The Contractor shall have all staff members complete a confidentiality agreement prior to starting contract performance. 
@@ -253,7 +253,7 @@ Sixty days before the end of the period specified in the contract, the Contracto
 
 ##### 6.1.1 	Before submitting a quote - Questions and Answers 
 **Questions**
-Submit all questions concerning this RFQ through this Google form. All questions must be submitted by the deadline provided on page 1 of this RFQ.
+<br>Submit all questions concerning this RFQ through this Google form. All questions must be submitted by the deadline provided on page 1 of this RFQ.
 
 Questions should clearly express the Contractor’s issues or concerns and must follow the format provided in the Google form. Statements expressing opinions, sentiments, or conjectures are not considered valid inquiries and will not receive a response. Further, Contractors are reminded that the government will not address hypothetical questions aimed at receiving a potential “evaluation” decision.
 
@@ -273,7 +273,7 @@ All responses must be submitted using this Google form and include the following
 
 **Price:** 
 Price responses must be submitted using the google form provided) and include the following materials:
-- [ ]Price Quote (spreadsheet)
+- [ ] Price Quote (spreadsheet)
 
 **Interviews:**
 The government reserves the right to hold oral interviews.  If the decision is made to hold interviews, Contractors will be notified and held in accordance with “Interviews” under **6.2 Instructions for Proposals** The oral interview does not require Contractors to submit any materials.
