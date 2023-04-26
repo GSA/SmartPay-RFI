@@ -71,7 +71,7 @@ CCCM intends that the software delivered under this task order will be committed
 
 #### 2.1	Product Vision
 
-Make it easier for GSA SmartPay users to find the information they need and to comply with government-wide and agency requirements.
+Make it easier for SmartPay stakeholders to find the information they’re interested in, and for the SmartPay PMO to keep the website updated and accessible to users.
 
 #### 2.2	Anticipated Period of Performance, Budget, and Ceiling Price
 
@@ -100,19 +100,19 @@ Individual user stories may be modified, added, retracted, or reprioritized by C
 
 **Administrative functions**
 - As a system administrator, I want to perform periodic database purges for users who exist in the system but have not completed any quizzes so I can keep the database up-to-date and reduce storage requirements.
-- As an administrator, I want to be able to post system messages, so I can alert users to website status.
-- As an administrator, I want a user friendly maintenance interface, so I can easily make content changes.
-- As an administrator, I want to be able to modify a user’s profile in the database, so that I can correct incorrect or out-of-date information.
+- As a system administrator, I want to be able to post system messages, so I can alert users to website status.
+- As a system administrator, I want a user friendly maintenance interface, so I can easily make content changes.
+- As a system administrator, I want to be able to modify a user’s profile in the database, so that I can correct incorrect or out-of-date information.
 
 **Email usage/monitoring**
-- As an administrator, I want to be able to confirm what emails were sent to whom and when, so that we can ensure users are being properly notified.
-- As an administrator, I want to monitor email bouncebacks, so that I can take corrective action (as needed) to ensure users are being properly notified.
-- As an administrator, in the event of important information / notification, I need the ability to send emails to all users.
+- As a system administrator, I want to be able to confirm what emails were sent to whom and when, so that we can ensure users are being properly notified.
+- As a system administrator, I want to monitor email bouncebacks, so that I can take corrective action (as needed) to ensure users are being properly notified.
+- As a system administrator, in the event of important information / notification, I need the ability to send emails to all users.
 
 **Other**
 - As an A/OPC and card holder, I want access to interactive content, so I can engage with the content in the forum I feel most comfortable.
 - As an A/OPC and card holder, I want quick access to GSA SmartPay’s social media accounts, so that I can stay apprised of program information / announcements.
-- As the GSA SmartPay program, we want to implement Google Tag Manager, in order to have more transparency into how our users are using our main website and training website.
+- As the GSA SmartPay program, we want to implement GSA's instance of Google Tag Manager, in order to have more transparency into how our users are using our main website and training website.
 
 **Security**
 - As the system administrator, I need [a specific system vulnerability] that was discovered during penetration testing to be remediated, to ensure the training website remains secure.
@@ -131,7 +131,7 @@ The following chart sets forth the performance standards and quality levels the 
 | Properly Styled Code | [GSA 18F Coding Styles](https://engineering.18f.gov/frontend/#js-style) Reference Guide | 0 linting errors and 0 warnings | Combination of manual review and automated testing |
 | Accessible | Web Content Accessibility Guidelines 2.1 AA standards | 0 errors reported using an automated scanner and 0 errors reported in manual testing | Combination of manual review and automated testing (such as [pa11y](https://github.com/pa11y/pa11y)) |
 | Deployed | Code must successfully build and deploy into staging environment | Successful build with a single command | Combination of manual review and automated testing |
-| Documented | Summary of user stories completed every sprint. All dependencies are listed and the licenses are documented. <br>Major functionality in the software/source code is documented. Individual methods are documented inline in a format that permits the use tools such as JSDoc. System diagram is provided. <br>Relevant security controls are documented and kept up to date. | Combination of manual review and automated testing, if available | Manual review |
+| Documented | Summary of user stories completed every sprint. All dependencies are listed and the licenses are documented. <br><br>Major functionality in the software/source code is documented. Individual methods are documented inline in a format that permits the use tools such as JSDoc. System diagram is provided. <br><br>Relevant security controls are documented and kept up to date. | Combination of manual review and automated testing, if available | Manual review |
 | Secure | Code is free of known static and runtime vulnerabilities | Code submitted must be free of medium- and high-level static and dynamic security vulnerabilities | Tests free of medium- and high-level vulnerabilities from a static testing SaaS (such as Snyk or npm audit), from dynamic testing tools like OWASP ZAP (with documentation explaining any false positives), and ongoing code review informed by OWASP or similar standards |
 
 
@@ -146,7 +146,7 @@ CCCM intends to issue a time and materials task order under an existing contract
 #### 5.1	Environment
 - Software development services will occur in the GSA SmartPay Github environment(s).
 - Website usage will be tracked with the [Digital Analytics Program](https://digital.gov/guides/dap/). 
-- Hosting will be on Cloud.gov Pages for building and serving front-end static assets and Cloud.gov for serving APIs and hosting the database and other backend services. Services are provided through an intra agency agreement that CCCM has in place with Cloud.gov.
+- Hosting will be on Cloud.gov Pages for building and serving front-end static assets and Cloud.gov for serving APIs and hosting the database and other backend services. Services are provided through an interagency agreement that CCCM has in place with Cloud.gov.
 - Current coding languages are Python for the back-end and JavaScript (Astro and Vue.js) for the front-end. The government is not prescribing that these must be the coding language(s) moving forward.
 
 #### 5.2	Design
@@ -156,7 +156,7 @@ CCCM intends to issue a time and materials task order under an existing contract
 #### 5.3 	System Access 
 - All Contractor personnel working under the task order will need to be U.S. citizens. 
 - Homeland Security Presidential Directive 12 (HSPD-12) applies to Contractor development personnel as such performance requires access to internal Government information technology (IT) systems.  As a result of HSPD-12 applicability to the requirements of this document, the Government will perform all required background investigations for Contractor personnel, and the Contractor shall ensure their personnel requiring physical access to Federally- controlled information technology systems have identification that complies with HSPD-12 policy. Immediately upon award the credential process shall commence. All identified Contractor personnel must complete a GSA Form 850 – Contractor Information Worksheet (CIW) to be provided with the proposal submission. The Contractor will not be given the Notice to Proceed (NTP) to start work until all Contractor personnel have the proper identification to satisfy this requirement.
-- Medium risk security clearance (Tier 2) shall be required
+- Medium risk security clearance (Tier 2) shall be required.
 - [NIST](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication) phishing resistant multi-factor authentication (MFA) shall be required for privileged and non-privileged users where login is required.  
 
 #### 5.4	Security
@@ -185,18 +185,19 @@ If software delivered by the Contractor incorporates software that is subject to
 
 ##### 5.7.1 Invoices
 Invoices for services and/or travel expenses must be submitted to the address (physical or e-mail) specified below. In addition to the requirements defined in sections 5.7.3 and 5.7.4, to constitute a proper invoice, the billing document must include the following information and/or attached documentation:
+
 <br>(1) Name of Contractor and Contractor’s Taxpayer Identification Number;
 <br>(2) Period covered by invoice and invoice date;
 <br>(3) Purchase order number;
-<br>(4) All invoices for services must set forth in detail the following:
-   <br>(i) Individual performing service each day by hour and quarter of an hour;
-   <br>(ii) Type of services performed each day by hour and quarter of an hour; and
-   <br>(iii) Hourly rate for each service so detailed;
+<br>(4) All invoices for services must set forth in detail the following: <br>
+ &emsp; (i) Individual performing service each day by hour and quarter of an hour; <br>
+ &emsp; (ii) Type of services performed each day by hour and quarter of an hour; and <br>
+ &emsp; (iii) Hourly rate for each service so detailed;
 <br>(5) Any applicable payment discount terms; and
 <br>(6) Total amount billed.
 
 ##### 5.7.2 Procedures for Payment
-The government intends to make payment to the Contractor via charge card as outlined in accordance with (IAW) FAR 52.232-36, Payment by Third Party. Pursuant to IAW FAR 32.1108(b)(2)(ii), the contracting officer shall not authorize the Governmentwide commercial purchase card as a method of payment during any period the System for Award Management (SAM)  indicates that the Contractor has delinquent debt subject to collection under the TOP. In such cases, payments under the contract shall be made in accordance with the clause at 52.232-33, Payment by Electronic Funds Transfer-System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer-Other Than System for Award Management, as appropriate (see FAR 32.1110(d)).
+The government intends to make payment to the Contractor via charge card as outlined in accordance with (IAW) FAR 52.232-36, Payment by Third Party. Pursuant to IAW FAR 32.1108(b)(2)(ii), the contracting officer shall not authorize the Governmentwide commercial purchase card as a method of payment during any period the System for Award Management (SAM)  indicates that the Contractor has delinquent debt subject to collection under the Treasury Offset Program (TOP). In such cases, payments under the contract shall be made in accordance with the clause at 52.232-33, Payment by Electronic Funds Transfer-System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer-Other Than System for Award Management, as appropriate (see FAR 32.1110(d)).
 
 ##### 5.7.3 Payment by Governmentwide commercial purchase card
 The Contractor shall submit invoices not more frequently than once per month. Payment shall be made in accordance with the clause found at FAR 52.232-36, Payment by Third Party. The Contractor shall make payment requests through a charge to the Government account with the third party, at the time and for the amount due in accordance with those clauses of this contract that authorize the Contractor to submit invoices, contract financing requests, other payment requests, or as provided in other clauses providing for payment to the Contractor.
@@ -225,7 +226,7 @@ USDA-OCFO
 <br>Tel: (800) 676-3690/(816) 926-7287
 <br>Fax: (816) 926-5189
 
-A duplicate electronic invoice with supporting documentation shall be sent electronically to the COR and CO. The COR will confirm performance made against the invoiced line items to ensure that the correct amounts have been billed and will document any price deductions. The COR will then certify and provide a signature indicating that the invoice is valid for payment. Invoices are authorized for payment upon the Government’s receipt and acceptance of deliverables specified in the task order and the receipt of a valid invoice. Invoices shall be rendered no later than the 15th calendar day of the month following performance and must be accompanied by all status reports submitted during that period. The COR must receive a copy of the invoice and all supporting documentation (i.e. list of daily hours worked by each of the vendor’s employees (also summed up as weekly and monthly for each person) before or at the same time as the GSA Finance Office. All final invoices must be submitted no later than thirty (30) calendar days after the last day of the month for which the charges, either labor and/or ODCs, were incurred. The Contractor may invoice only for hours, travel, and/or unique services ordered by GSA and actually used in direct support of the program office for this task order.
+A duplicate electronic invoice with supporting documentation shall be sent electronically to the COR and CO. The COR will confirm performance made against the invoiced line items to ensure that the correct amounts have been billed and will document any price deductions. The COR will then certify and provide a signature indicating that the invoice is valid for payment. Invoices are authorized for payment upon the Government’s receipt and acceptance of deliverables specified in the task order and the receipt of a valid invoice. Invoices shall be rendered no later than the 15th calendar day of the month following performance and must be accompanied by all status reports submitted during that period. The COR must receive a copy of the invoice and all supporting documentation (i.e. list of daily hours worked by each of the vendor’s employees (also summed up as weekly and monthly for each person)) before or at the same time as the GSA Finance Office. All final invoices must be submitted no later than thirty (30) calendar days after the last day of the month for which the charges, either labor and/or ODCs, were incurred. The Contractor may invoice only for hours, travel, and/or unique services ordered by GSA and actually used in direct support of the program office for this task order.
 
 Invoices must include the following:
 <br>(1) Name and address of the Contractor
@@ -253,7 +254,7 @@ Sixty days before the end of the period specified in the contract, the Contracto
 
 ##### 6.1.1 	Before submitting a quote - Questions and Answers 
 **Questions**
-<br>Submit all questions concerning this RFQ through this Google form. All questions must be submitted by the deadline provided on page 1 of this RFQ.
+<br>Submit all questions concerning this RFQ through this Google form [link will be included in the final RFQ]. All questions must be submitted by [date will be provided in the final RFQ].
 
 Questions should clearly express the Contractor’s issues or concerns and must follow the format provided in the Google form. Statements expressing opinions, sentiments, or conjectures are not considered valid inquiries and will not receive a response. Further, Contractors are reminded that the government will not address hypothetical questions aimed at receiving a potential “evaluation” decision.
 
@@ -267,16 +268,17 @@ All responses must be submitted using this Google form and include the following
 - [ ] Maximum of 2 code repositories with a short description about the project for each code repository 
 - [ ] Staffing plan - **3 pages** maximum, including diagrams, 12-point font
 - [ ] Resumes and letters of intent from designated key personnel (if not currently employed by Contractor)
-- [ ] User research plan if not included in the code repository
+- [ ] User research plan
 - [ ] Conflict of Interest (form to sign)
 - [ ] FAR 52.204-24 Provision (checkbox on Google form)
 
 **Price:** 
-Price responses must be submitted using the google form provided) and include the following materials:
+Price responses must be submitted using the google form [will be provided with the final RFQ] and include the following materials:
 - [ ] Price Quote (spreadsheet)
 
 **Interviews:**
 The government reserves the right to hold oral interviews.  If the decision is made to hold interviews, Contractors will be notified and held in accordance with “Interviews” under **6.2 Instructions for Proposals** The oral interview does not require Contractors to submit any materials.
+
 Applies to all phases: **Only submit information explicitly requested in this RFQ.** Do not include assumptions, caveats, or exceptions in any part of your submission. Failing to follow these instructions may result in removal from consideration for the award.
 
 
@@ -284,9 +286,9 @@ Applies to all phases: **Only submit information explicitly requested in this RF
 ##### 6.2.1 Technical Submissions
 Technical submissions must consist of a technical proposal of no more than four (4) pages, a staffing plan of no more than three (3) pages plus resumes and signed letters of intent to participate, and references to two source code samples, preferably open source. Technical proposals and staffing plans must be submitted using 12-point type.
 
-The technical proposal must set forth the Contractor's proposed approach to providing the services required, including programming language(s) the Contractor proposes to use. The technical proposal must also make clear that the Contractor understands the details of the project requirements. The technical proposal must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. The technical proposal must also include a description of the Contractor's plans, if any, to provide services through a joint venture, teaming partner, or subcontractors.
+The technical proposal must set forth the Contractor's proposed approach to providing the services required, including programming language(s) the Contractor proposes to use. The technical proposal must also make clear that the Contractor understands the details of the project requirements. The technical proposal must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. 
 
-The staffing plan must set forth the Contractor's proposed approach to staffing the requirements of this project, including the titles of each of the labor categories proposed and proposed level of effort for each member of the Contractor's development team. The staffing plan must also identify the proposed Project Manager and proposed Technical Lead by name, and include a resume for each. Those resumes must include a brief description of the experience and capability for each individual, but cannot exceed one (1) page in length each. Contractors proposing Key Personnel who are not currently employed by the Contractor or a teaming partner must include a signed letter of intent from the individual proposed as Key Personnel that they intend to participate in this project for at least one (1) year. The staffing plan must also set forth the extent to which the proposed team for this project was involved in the development of the source code referred to in the next paragraph.
+The staffing plan must set forth the Contractor's proposed approach to staffing the requirements of this project, including the titles of each of the labor categories proposed and proposed level of effort for each member of the Contractor's development team. The staffing plan must also identify the proposed Project Manager and proposed Technical Lead by name, and include a resume for each. Those resumes must include a brief description of the experience and capability for each individual, but cannot exceed one (1) page in length each. Contractors proposing Key Personnel who are not currently employed by the Contractor must include a signed letter of intent from the individual proposed as Key Personnel that they intend to participate in this project for at least one (1) year. The staffing plan must also set forth the extent to which the proposed team for this project was involved in the development of the source code referred to below.
 
 The staffing plan must set forth and explain the extent to which the Contractor will provide individuals with experience in at least each of the following areas:
 - Agile development practices
@@ -299,14 +301,14 @@ The staffing plan must set forth and explain the extent to which the Contractor 
 
 The references to one or more source code samples must be either links to Git repositories (either credentialed or public) or to equivalent version-controlled repositories that provide CCCM with the full revision history for all files. If an Contractor submits a link to a private Git repository hosted with GitHub, CCCM will provide the Contractor with one or more GitHub user identities by email, and the Contractor will be expected to promptly provide the identified user(s) with access to the private Git repository.
 
-The source code samples should be for projects that are similar in size, scope, and complexity to the project contemplated here. The source code must have been developed by either (i) the Contractor itself, (ii) a teaming partner that is proposed in response to this RFQ, or (iii) an individual that is being proposed as Key Personnel for this project. 
+The source code samples should be for projects that are similar in size, scope, and complexity to the project contemplated here. The source code must have been developed by either (i) the Contractor itself, or (ii) an individual that is being proposed as Key Personnel for this project. 
 
 ##### 6.2.2 Price Submissions
 Price submissions must set forth a single dollar amount that represents the Contractor's estimate of the total cost to CCCM for the development services for a base 12 month and 2 option periods. [Instructions on providing price proposal, typically an excel workbook, will be included in the final RFQ]. CCCM expects that the labor categories and staffing levels set forth by the Contractor in the Excel workbook will be consistent with the Contractor's staffing plan.
 
 The Contractor will be compensated at loaded hourly rates. CCCM intends to evaluate proposals and award based on initial proposals, and therefore the Contractor's initial proposal should contain the Contractor's best terms. 
 
-#### 6.2.3 Interviews
+##### 6.2.3 Interviews
 Each interview will be conducted remotely via video connection and/or teleconference. CCCM will communicate with certain Contractors to schedule the dates and times of interviews.
 
 Each interview will include an unstructured question and answer session, during which Contractors will be asked questions about the technical aspects of their proposal and their approach to software development. CCCM expects these interviews will assist CCCM to assess the technical abilities of the proposed development team and to better understand the proposed technical approach described in the Contractor's written submission. Both of the Contractor's proposed Key Personnel must participate in the interview.
@@ -329,7 +331,7 @@ CCCM will evaluate quotes that are technically acceptable on a competitive best 
 <br>(3) similar experience, and 
 <br>(4) price. 
 
-<br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to an Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
+<br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to a Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
 
 #### 6.2.5 Technical Approach
 In evaluating a Contractor's technical approach, CCCM will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
