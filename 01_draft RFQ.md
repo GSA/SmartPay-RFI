@@ -117,7 +117,9 @@ Individual user stories may be modified, added, retracted, or reprioritized by C
 **Security**
 - As the system administrator, I need [a specific system vulnerability] that was discovered during penetration testing to be remediated, to ensure the training website remains secure.
 - As the system administrator, I need [a specific item] to be updated, to comply with updated GSA IT security policies, standards and guidelines.
-- As a system administrator, I need the System Security Plan to be updated, to reflect a change in the system [because of a specific reason].
+- As a system administrator, I need to remediate vulnerabilities based on authenticated scans, to comply with monthly security deliverable requirements.
+- As a system administrator, I need the System Security Plan to be updated, to reflect a significant change in the system.
+
 
 #### 3.2 List of Deliverables with Quality Assurance Surveillance Plan (QASP)
 The following chart sets forth the performance standards and quality levels the code and documentation provided by the Contractor must meet, and the methods CCCM will use to assess the standard and quality levels of that code and documentation.
@@ -126,7 +128,7 @@ The following chart sets forth the performance standards and quality levels the 
 | Deliverable | Performance Standard(s) | Acceptable Quality Level | Method of Assessment |
 | --- | --- | --- | --- |
 | Tested Code | Code delivered under the order must have substantial test code coverage | Minimum of 90% test coverage of all code. All areas of code are meaningfully tested | Combination of manual review and automated testing |
-| Properly Styled Code | [GSA 18F Coding Styles](https://frontend.18f.gov/#js-style) Reference Guide | 0 linting errors and 0 warnings | Combination of manual review and automated testing |
+| Properly Styled Code | [GSA 18F Coding Styles](https://engineering.18f.gov/frontend/#js-style) Reference Guide | 0 linting errors and 0 warnings | Combination of manual review and automated testing |
 | Accessible | Web Content Accessibility Guidelines 2.1 AA standards | 0 errors reported using an automated scanner and 0 errors reported in manual testing | Combination of manual review and automated testing (such as [pa11y](https://github.com/pa11y/pa11y)) |
 | Deployed | Code must successfully build and deploy into staging environment | Successful build with a single command | Combination of manual review and automated testing |
 | Documented | Summary of user stories completed every sprint. All dependencies are listed and the licenses are documented. <br>Major functionality in the software/source code is documented. Individual methods are documented inline in a format that permits the use tools such as JSDoc. System diagram is provided. <br>Relevant security controls are documented and kept up to date. | Combination of manual review and automated testing, if available | Manual review |
