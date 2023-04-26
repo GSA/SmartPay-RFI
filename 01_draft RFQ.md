@@ -13,7 +13,7 @@ This program has interfaced and provided support to its [users](https://github.c
 - Built on a Drupal version 9 with PHP programming.
 - Hosted on Red Hat Enterprise Linux version 8 servers.
 
-The website received more than 1.8 million visitors (mobile & web) in FY22. Based on current content and development in progress, the government anticipates that traffic will be driven by state sales tax content and visits to the Section 889 Representations tool).
+The website received more than 1.8 million visitors (mobile & web) in FY22. Based on current content and development in progress, the government anticipates that traffic will be driven by state sales tax content and visits to the Section 889 Representations tool.
 
 Section 889 of the 2019 National Defense Authorization Act prohibits purchases from certain banned telecommunication and video surveillance equipment in an effort to protect national security. The Section 889 Representations tool (currently expected to go live in March 2023) searches for company 889 status with Unique Entity Identifier (UEI), company name, or Commercial and Government Entity code (CAGE) number via the SAM.gov Entity Management application programming interface (API). The current 889 Representation tool is:
 - Built on GSA’s instance of Google Cloud Platform.
