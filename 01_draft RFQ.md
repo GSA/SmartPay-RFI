@@ -328,6 +328,7 @@ CCCM will evaluate quotes that are technically acceptable on a competitive best 
 <br>(2) staffing approach, 
 <br>(3) similar experience, and 
 <br>(4) price. 
+
 <br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to an Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
 
 #### 6.2.5 Technical Approach
