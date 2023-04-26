@@ -16,11 +16,11 @@ This program has interfaced and provided support to [users](https://github.com/G
 
 The website received more than 1.8 million visitors (mobile & web) in FY22. Based on current content and development in progress, the government anticipates that traffic will be driven by state sales tax content and visits to the Section 889 Representations tool.
 
-(2) Section 889 of the 2019 National Defense Authorization Act prohibits purchases from certain banned telecommunication and video surveillance equipment in an effort to protect national security. The [Section 889 Representations tool](https://889.smartpay.gsa.gov/#/) searches for company 889 status with Unique Entity Identifier (UEI), company name, or Commercial and Government Entity code (CAGE) number via the SAM.gov Entity Management application programming interface (API). The current 889 Representation tool is:
+Section 889 of the 2019 National Defense Authorization Act prohibits purchases from certain banned telecommunication and video surveillance equipment in an effort to protect national security. The [Section 889 Representations tool](https://889.smartpay.gsa.gov/#/) searches for company 889 status with Unique Entity Identifier (UEI), company name, or Commercial and Government Entity code (CAGE) number via the SAM.gov Entity Management application programming interface (API). The current 889 Representation tool is:
 - Built on GSA’s instance of Google Cloud Platform.
 - Developed with Python (back-end) and Vue.js (front-end). 
 
-The GSA SmartPay training website, which is available at https://training.smartpay.gsa.gov/, provides mandatory training to card/account holders, approving officials (AOs), and agency/organization program coordinators (A/OPCs), as required by law and policy. This offering is optional for agencies to use (some prefer to host their own content in their learning management systems). The current GSA SmartPay training website:
+(2) The GSA SmartPay training website, which is available at https://training.smartpay.gsa.gov/, provides mandatory training to card/account holders, approving officials (AOs), and agency/organization program coordinators (A/OPCs), as required by law and policy. This offering is optional for agencies to use (some prefer to host their own content in their learning management systems). The current GSA SmartPay training website:
 - Is built on a Drupal version 9 with PHP programming.
 - Is hosted on Red Hat Enterprise Linux version 8 servers.
 - Uses a MariaDM database.
