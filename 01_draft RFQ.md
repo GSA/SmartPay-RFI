@@ -117,7 +117,6 @@ Individual user stories may be modified, added, retracted, or reprioritized by C
 **Security**
 - As the system administrator, I need [a specific system vulnerability] that was discovered during penetration testing to be remediated, to ensure the training website remains secure.
 - As the system administrator, I need [a specific item] to be updated, to comply with updated GSA IT security policies, standards and guidelines.
-- As a system administrator, I need an authenticated scan on the program website and training system, to comply with monthly security deliverable requirements.
 - As a system administrator, I need the System Security Plan to be updated, to reflect a change in the system [because of a specific reason].
 
 #### 3.2 List of Deliverables with Quality Assurance Surveillance Plan (QASP)
