@@ -11,9 +11,9 @@ CCCM is requesting industry feedback for agile software development services for
 5. [Operating Constraints (Non-functional Requirements)](https://github.com/GSA/SmartPay-RFI/blob/main/01_draft%20RFQ.md#50-operating-constraints-non-functional-requirements)
 6. [Instructions and Evaluation](https://github.com/GSA/SmartPay-RFI/blob/main/01_draft%20RFQ.md#60-instructions-and-evaluation)
 
-- Attachment A
-- Attachment B
-- Attachment C
+- [Attachment A](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20A_Security%20and%20Privacy%20Requirements%20for%20IT%20Acquisition%20Efforts%20CIO-IT%20Security-09-48.pdf)
+- [Attachment B](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20B_Managing%20Enterprise%20Cybersecurity%20Risk%20CIO-IT%20Security-06-30.pdf)
+- [Attachment C](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20C_CIO_21001N_GSA_Information_Technology_Security_Policy.pdf)
 
 
 The entire RFQ may alternatively be downloaded as a single PDF.
