@@ -75,7 +75,7 @@ Make it easier for SmartPay stakeholders to find the information they’re inter
 
 #### 2.2	Anticipated Period of Performance, Budget, and Ceiling Price
 
-The period of performance (PoP) shall be one year, with options to extend up to two additional years. GSA may, by written notice issue and at least 60 days prior to the expiration of the initial term, extend the period of performance for additional option years. The PoP is expected to begin on or around Aug 1, 2023.
+The period of performance (PoP) shall be one year, with options to extend up to two additional years. GSA may, by written notice issue and at least 60 days prior to the expiration of the initial term, extend the period of performance for additional option years in accordance with FAR Subpart 52.217-9 Option to Extend the Term of the Contract. The PoP is expected to begin on or around Aug 1, 2023.
 
 The not to exceed ceiling on this contract will be $840,000 for the first period of performance (52.232-22 Limitation of Funds applicable) and up to an additional $550,000 for each of the two option periods. Contractors are expected to submit a quote reflective of its solution to fulfill the government’s requirements.
 
@@ -155,8 +155,8 @@ CCCM intends to issue a time and materials task order under an existing contract
 
 #### 5.3 	System Access 
 - All Contractor personnel working under the task order will need to be U.S. citizens. 
-- Homeland Security Presidential Directive 12 (HSPD-12) applies to Contractor development personnel as such performance requires access to internal Government information technology (IT) systems.  As a result of HSPD-12 applicability to the requirements of this document, the Government will perform all required background investigations for Contractor personnel, and the Contractor shall ensure their personnel requiring physical access to Federally- controlled information technology systems have identification that complies with HSPD-12 policy. Immediately upon award the credential process shall commence. All identified Contractor personnel must complete a GSA Form 850 – Contractor Information Worksheet (CIW) to be provided with the proposal submission. The Contractor will not be given the Notice to Proceed (NTP) to start work until all Contractor personnel have the proper identification to satisfy this requirement.
-- Medium risk security clearance (Tier 2) shall be required.
+- Homeland Security Presidential Directive 12 (HSPD-12) applies to Contractor development personnel as such performance requires access to internal Government information technology (IT) systems.  As a result of HSPD-12 applicability to the requirements of this document, the Government will perform all required background investigations for Contractor personnel, and the Contractor shall ensure their personnel requiring physical access to Federally- controlled information technology systems have identification that complies with HSPD-12 policy. Immediately upon award the credential process shall commence. All identified Contractor personnel must complete a GSA Form 850 – Contractor Information Worksheet (CIW) to be provided with the quote submission. The Contractor will not be given the Notice to Proceed (NTP) to start work until all Contractor personnel have the proper identification to satisfy this requirement.
+- Medium risk security clearance (Tier 2) shall be required. The Contractor will be responsible for the cost associated with the background investigation and clearance.
 - [NIST](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication) phishing resistant multi-factor authentication (MFA) shall be required for privileged and non-privileged users where login is required.  
 
 #### 5.4	Security
@@ -277,16 +277,16 @@ Price responses must be submitted using the google form [will be provided with t
 - [ ] Price Quote (spreadsheet)
 
 **Interviews:**
-The government reserves the right to hold oral interviews.  If the decision is made to hold interviews, Contractors will be notified and held in accordance with “Interviews” under **6.2 Instructions for Proposals** The oral interview does not require Contractors to submit any materials.
+The government reserves the right to hold oral interviews.  If the decision is made to hold interviews, Contractors will be notified and held in accordance with “Interviews” under **6.2 Instructions for Quotes** The oral interview does not require Contractors to submit any materials.
 
 Applies to all phases: **Only submit information explicitly requested in this RFQ.** Do not include assumptions, caveats, or exceptions in any part of your submission. Failing to follow these instructions may result in removal from consideration for the award.
 
 
-#### 6.2	Instructions for Proposals
+#### 6.2	Instructions for Quotes
 ##### 6.2.1 Technical Submissions
-Technical submissions must consist of a technical proposal of no more than four (4) pages, a staffing plan of no more than three (3) pages plus resumes and signed letters of intent to participate, and references to two source code samples, preferably open source. Technical proposals and staffing plans must be submitted using 12-point type.
+Technical submissions must consist of a technical quote of no more than four (4) pages, a staffing plan of no more than three (3) pages plus resumes and signed letters of intent to participate, and references to two source code samples, preferably open source. Technical quotes and staffing plans must be submitted using 12-point font.
 
-The technical proposal must set forth the Contractor's proposed approach to providing the services required, including programming language(s) the Contractor proposes to use. The technical proposal must also make clear that the Contractor understands the details of the project requirements. The technical proposal must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. 
+The technical quote must set forth the Contractor's proposed approach to providing the services required, including programming language(s) the Contractor proposes to use. The technical quote must also make clear that the Contractor understands the details of the project requirements. The technical quote must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. 
 
 The staffing plan must set forth the Contractor's proposed approach to staffing the requirements of this project, including the titles of each of the labor categories proposed and proposed level of effort for each member of the Contractor's development team. The staffing plan must also identify the proposed Project Manager and proposed Technical Lead by name, and include a resume for each. Those resumes must include a brief description of the experience and capability for each individual, but cannot exceed one (1) page in length each. Contractors proposing Key Personnel who are not currently employed by the Contractor must include a signed letter of intent from the individual proposed as Key Personnel that they intend to participate in this project for at least one (1) year. The staffing plan must also set forth the extent to which the proposed team for this project was involved in the development of the source code referred to below.
 
@@ -304,44 +304,44 @@ The references to one or more source code samples must be either links to Git re
 The source code samples should be for projects that are similar in size, scope, and complexity to the project contemplated here. The source code must have been developed by either (i) the Contractor itself, or (ii) an individual that is being proposed as Key Personnel for this project. 
 
 ##### 6.2.2 Price Submissions
-Price submissions must set forth a single dollar amount that represents the Contractor's estimate of the total cost to CCCM for the development services for a base 12 month and 2 option periods. [Instructions on providing price proposal, typically an excel workbook, will be included in the final RFQ]. CCCM expects that the labor categories and staffing levels set forth by the Contractor in the Excel workbook will be consistent with the Contractor's staffing plan.
+Price submissions must set forth a single dollar amount that represents the Contractor's estimate of the total cost to CCCM for the development services for a base 12 month and 2 option periods. [Instructions on providing price quote, typically an excel workbook, will be included in the final RFQ]. CCCM expects that the labor categories and staffing levels set forth by the Contractor in the Excel workbook will be consistent with the Contractor's staffing plan.
 
-The Contractor will be compensated at loaded hourly rates. CCCM intends to evaluate proposals and award based on initial proposals, and therefore the Contractor's initial proposal should contain the Contractor's best terms. 
+The Contractor will be compensated at loaded hourly rates. CCCM intends to evaluate quotes and award based on initial quotes, and therefore the Contractor's initial quote should contain the Contractor's best terms. 
 
 ##### 6.2.3 Interviews
 Each interview will be conducted remotely via video connection and/or teleconference. CCCM will communicate with certain Contractors to schedule the dates and times of interviews.
 
-Each interview will include an unstructured question and answer session, during which Contractors will be asked questions about the technical aspects of their proposal and their approach to software development. CCCM expects these interviews will assist CCCM to assess the technical abilities of the proposed development team and to better understand the proposed technical approach described in the Contractor's written submission. Both of the Contractor's proposed Key Personnel must participate in the interview.
+Each interview will include an unstructured question and answer session, during which Contractors will be asked questions about the technical aspects of their quote and their approach to software development. CCCM expects these interviews will assist CCCM to assess the technical abilities of the proposed development team and to better understand the proposed technical approach described in the Contractor's written submission. Both of the Contractor's proposed Key Personnel must participate in the interview.
 
 The Introductions phase of each interview will last approximately 5 minutes, during which the Contractor and CCCM interview team members will introduce themselves.
 
-The Open Technical Session of each interview will last approximately 45 minutes, during which the Contractor interview team will respond to CCCM’s questions related to the technical aspects of the Contractor's proposal. Contractors will NOT be able to use or present any slides, graphs, charts, or other written presentation materials, including handouts. There will be no follow-up session for further questions after this part of the interview.
+The Open Technical Session of each interview will last approximately 45 minutes, during which the Contractor interview team will respond to CCCM’s questions related to the technical aspects of the Contractor's quote. Contractors will NOT be able to use or present any slides, graphs, charts, or other written presentation materials, including handouts. There will be no follow-up session for further questions after this part of the interview.
 
 The Closing Remarks phase of each interview will last approximately 5 minutes, during which the Contractor may make a short presentation summarizing the Contractor's responses to CCCM’s questions.
 Interviews will not constitute discussions. Statements made during an interview will not become part of the agreement.
 
 #### 6.2.4 Basis of Award and Evaluation Factors
-Each submission received by CCCM will be evaluated for technical acceptability. Submissions that are determined to not be technically acceptable after the Contractor has been given the opportunity for a clarification will not be evaluated further.
+Each submission received by the Government will be evaluated for technical acceptability. Submissions that are determined to not be technically acceptable after the Contractor has been given the opportunity for a clarification will not be evaluated further.
 
 Quotes must be realistic with respect to technical approach, staffing approach, and total price. Quotes that indicate a lack of understanding of the project requirements may not be considered for award. Quotes may indicate a lack of understanding of the project requirements if the staffing plan does not use a realistic mix of labor categories and hours, or if any proposed hourly labor rates are unrealistically high or low.
 
-CCCM will evaluate quotes that are technically acceptable on a competitive best value basis using a trade-off between technical and price factors. Technically acceptable submissions will be evaluated based on four (4) evaluation factors. These factors are:
+The Government will evaluate quotes that are technically acceptable on a competitive best value basis using a trade-off between technical and price factors. Technically acceptable submissions will be evaluated based on four (4) evaluation factors. These factors are:
 <br>(1) technical approach,
 <br>(2) staffing approach, 
 <br>(3) similar experience, and 
 <br>(4) price. 
 
-<br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to a Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
+<br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. The Government may make an award to a Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to the Government. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to the Government of the Contractor's advantage in the non-price factors.
 
 #### 6.2.5 Technical Approach
-In evaluating a Contractor's technical approach, CCCM will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
+In evaluating a Contractor's technical approach, the Government will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
 
 #### 6.2.6 Staffing Approach
-In evaluating a Contractor's staffing approach, CCCM will consider (a) the skills and experience of the Key Personnel and other individuals that the Contractor plans to use to provide the required services, (b) the mix of labor categories that will comprise the Contractor's proposed development team, and (c) the Contractor's proposed number of hours of services to be provided by each member of the Contractor's proposed development team.
+In evaluating a Contractor's staffing approach, the Government will consider (a) the skills and experience of the Key Personnel and other individuals that the Contractor plans to use to provide the required services, (b) the mix of labor categories that will comprise the Contractor's proposed development team, and (c) the Contractor's proposed number of hours of services to be provided by each member of the Contractor's proposed development team.
 
 #### 6.2.7 Similar Experience
-In evaluating a Contractor's similar experience, CCCM will consider the extent to which the Contractor has recently provided software development services for projects that are similar in size, scope, and complexity to the project described in this RFQ, and the quality of those services. In evaluating the quality of those services, CCCM will consider, among other things, the revision history for all files in the source code samples provided. In considering a Contractor's similar experience, CCCM may also consider information from any other source, including Contractor's prior customers and public websites.
+In evaluating a Contractor's similar experience, the Government will consider the extent to which the Contractor has recently provided software development services for projects that are similar in size, scope, and complexity to the project described in this RFQ, and the quality of those services. In evaluating the quality of those services, the Government will consider, among other things, the revision history for all files in the source code samples provided. In considering a Contractor's similar experience, the Government may also consider information from any other source, including Contractor's prior customers and public websites.
 
 #### 6.2.8 Price
-In evaluating a Contractor's price, CCCM will consider the total of the Contractor's estimated costs for the development services for the base and two option periods.
+In evaluating a Contractor's price, the Government will consider the total of the Contractor's estimated costs for the development services for the base and two option periods.
 
