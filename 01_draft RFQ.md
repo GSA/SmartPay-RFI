@@ -326,12 +326,13 @@ Each submission received by the Government will be evaluated for technical accep
 Quotes must be realistic with respect to technical approach, staffing approach, and total price. Quotes that indicate a lack of understanding of the project requirements may not be considered for award. Quotes may indicate a lack of understanding of the project requirements if the staffing plan does not use a realistic mix of labor categories and hours, or if any proposed hourly labor rates are unrealistically high or low.
 
 The Government will evaluate quotes that are technically acceptable on a competitive best value basis using a trade-off between technical and price factors. Technically acceptable submissions will be evaluated based on four (4) evaluation factors. These factors are:
+
 <br>(1) technical approach,
 <br>(2) staffing approach, 
 <br>(3) similar experience, and 
 <br>(4) price. 
 
-<br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. The Government may make an award to a Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to the Government. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to the Government of the Contractor's advantage in the non-price factors.
+The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. The Government may make an award to a Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to the Government. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to the Government of the Contractor's advantage in the non-price factors.
 
 #### 6.2.5 Technical Approach
 In evaluating a Contractor's technical approach, the Government will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
