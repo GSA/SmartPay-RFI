@@ -3,7 +3,10 @@ The GSA Center for Charge Card Management (hereinafter “CCCM”) administers t
 
 CCCM is requesting industry feedback for agile software development services for the: (1) GSA SmartPay main website and (2) GSA SmartPay training website.
 
-# RFI questionnaire [link](https://forms.gle/7PpMRWeNYXxLpEnCA)
+
+
+# RFI questionnaire: Please submit your [responses](https://forms.gle/7PpMRWeNYXxLpEnCA) no later than 12:00PM EST on March xx, 2023.
+
 This RFI is issued solely for information and planning purposes; it does not constitute a solicitation or a promise to issue a solicitation in the future. This RFI does not commit the government to contract for any supply or service whatsoever. Unsolicited proposals will not be accepted.
 
 Interested parties are advised that the government will NOT pay for any information or administrative costs incurred in response to this RFI; all costs associated with responding to this RFI will be solely at the interested party's expenses. Not responding to this RFI does not preclude participation in any future solicitation, if issued. It is the responsibility of the interested parties to keep up to date on information pertaining to this requirement.
