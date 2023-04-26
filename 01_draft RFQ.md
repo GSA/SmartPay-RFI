@@ -10,7 +10,7 @@ The GSA Center for Charge Card Management (hereinafter “CCCM”) administers t
 This program has interfaced and provided support to [users](https://github.com/GSA/smartpay-website/wiki/GSA-SmartPay%C2%AE-%7C-User-Types) through: (1) GSA SmartPay main website, and (2) GSA SmartPay training website.
 
 ##### 1.1.1 Current state
-(1) The GSA SmartPay main website is available at [https://smartpay.gsa.gov(https://smartpay.gsa.gov/) and is:
+(1) The GSA SmartPay main website is available at [https://smartpay.gsa.gov](https://smartpay.gsa.gov/) and is:
 - Built on a Drupal version 9 with PHP programming.
 - Hosted on Red Hat Enterprise Linux version 8 servers.
 
