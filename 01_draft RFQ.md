@@ -248,3 +248,93 @@ The Contractor shall notify the CO in writing when it has reason to believe that
 Sixty days before the end of the period specified in the contract, the Contractor shall notify the CO in writing of the estimated amount of additional funds, if any, required to continue timely performance under the contract or for any further period specified in the contract or otherwise agreed upon, and when the funds will be required.
 
 ### 6.0 Instructions and Evaluation
+
+#### 6.1	Submission Instructions
+
+##### 6.1.1 	Before submitting a quote - Questions and Answers 
+**Questions**
+Submit all questions concerning this RFQ through this Google form. All questions must be submitted by the deadline provided on page 1 of this RFQ.
+
+Questions should clearly express the Contractor’s issues or concerns and must follow the format provided in the Google form. Statements expressing opinions, sentiments, or conjectures are not considered valid inquiries and will not receive a response. Further, Contractors are reminded that the government will not address hypothetical questions aimed at receiving a potential “evaluation” decision.
+
+Answers will be provided as an amendment to the solicitation three business days after the deadline for questions. 
+
+##### 6.1.2 Submission checklist
+All responses must be submitted using this Google form and include the following materials:
+
+**Technical Submission:**
+- [ ] Technical approach - **4 pages** maximum, including diagrams, 12-point font
+- [ ] Maximum of 2 code repositories with a short description about the project for each code repository 
+- [ ] Staffing plan - **3 pages** maximum, including diagrams, 12-point font
+- [ ] Resumes and letters of intent from designated key personnel (if not currently employed by Contractor)
+- [ ] User research plan if not included in the code repository
+- [ ] Conflict of Interest (form to sign)
+- [ ] FAR 52.204-24 Provision (checkbox on Google form)
+
+**Price:** 
+Price responses must be submitted using the google form provided) and include the following materials:
+- [ ]Price Quote (spreadsheet)
+
+**Interviews:**
+The government reserves the right to hold oral interviews.  If the decision is made to hold interviews, Contractors will be notified and held in accordance with “Interviews” under **6.2 Instructions for Proposals** The oral interview does not require Contractors to submit any materials.
+Applies to all phases: **Only submit information explicitly requested in this RFQ.** Do not include assumptions, caveats, or exceptions in any part of your submission. Failing to follow these instructions may result in removal from consideration for the award.
+
+
+#### 6.2	Instructions for Proposals
+##### 6.2.1 Technical Submissions
+Technical submissions must consist of a technical proposal of no more than four (4) pages, a staffing plan of no more than three (3) pages plus resumes and signed letters of intent to participate, and references to two source code samples, preferably open source. Technical proposals and staffing plans must be submitted using 12-point type.
+
+The technical proposal must set forth the Contractor's proposed approach to providing the services required, including programming language(s) the Contractor proposes to use. The technical proposal must also make clear that the Contractor understands the details of the project requirements. The technical proposal must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. The technical proposal must also include a description of the Contractor's plans, if any, to provide services through a joint venture, teaming partner, or subcontractors.
+
+The staffing plan must set forth the Contractor's proposed approach to staffing the requirements of this project, including the titles of each of the labor categories proposed and proposed level of effort for each member of the Contractor's development team. The staffing plan must also identify the proposed Project Manager and proposed Technical Lead by name, and include a resume for each. Those resumes must include a brief description of the experience and capability for each individual, but cannot exceed one (1) page in length each. Contractors proposing Key Personnel who are not currently employed by the Contractor or a teaming partner must include a signed letter of intent from the individual proposed as Key Personnel that they intend to participate in this project for at least one (1) year. The staffing plan must also set forth the extent to which the proposed team for this project was involved in the development of the source code referred to in the next paragraph.
+
+The staffing plan must set forth and explain the extent to which the Contractor will provide individuals with experience in at least each of the following areas:
+- Agile development practices
+- Automated (unit/integration/end-to-end) testing
+- Continuous Integration and Continuous Deployment
+- Application Protocol Interface (API) development and documentation
+- Open-source software development
+- Cloud deployment
+- Building and testing public facing sites and tools
+
+The references to one or more source code samples must be either links to Git repositories (either credentialed or public) or to equivalent version-controlled repositories that provide CCCM with the full revision history for all files. If an Contractor submits a link to a private Git repository hosted with GitHub, CCCM will provide the Contractor with one or more GitHub user identities by email, and the Contractor will be expected to promptly provide the identified user(s) with access to the private Git repository.
+
+The source code samples should be for projects that are similar in size, scope, and complexity to the project contemplated here. The source code must have been developed by either (i) the Contractor itself, (ii) a teaming partner that is proposed in response to this RFQ, or (iii) an individual that is being proposed as Key Personnel for this project. 
+
+##### 6.2.2 Price Submissions
+Price submissions must set forth a single dollar amount that represents the Contractor's estimate of the total cost to CCCM for the development services for a base 12 month and 2 option periods. [Instructions on providing price proposal, typically an excel workbook, will be included in the final RFQ]. CCCM expects that the labor categories and staffing levels set forth by the Contractor in the Excel workbook will be consistent with the Contractor's staffing plan.
+
+The Contractor will be compensated at loaded hourly rates. CCCM intends to evaluate proposals and award based on initial proposals, and therefore the Contractor's initial proposal should contain the Contractor's best terms. 
+
+#### 6.2.3 Interviews
+Each interview will be conducted remotely via video connection and/or teleconference. CCCM will communicate with certain Contractors to schedule the dates and times of interviews.
+
+Each interview will include an unstructured question and answer session, during which Contractors will be asked questions about the technical aspects of their proposal and their approach to software development. CCCM expects these interviews will assist CCCM to assess the technical abilities of the proposed development team and to better understand the proposed technical approach described in the Contractor's written submission. Both of the Contractor's proposed Key Personnel must participate in the interview.
+
+The Introductions phase of each interview will last approximately 5 minutes, during which the Contractor and CCCM interview team members will introduce themselves.
+
+The Open Technical Session of each interview will last approximately 45 minutes, during which the Contractor interview team will respond to CCCM’s questions related to the technical aspects of the Contractor's proposal. Contractors will NOT be able to use or present any slides, graphs, charts, or other written presentation materials, including handouts. There will be no follow-up session for further questions after this part of the interview.
+
+The Closing Remarks phase of each interview will last approximately 5 minutes, during which the Contractor may make a short presentation summarizing the Contractor's responses to CCCM’s questions.
+Interviews will not constitute discussions. Statements made during an interview will not become part of the agreement.
+
+#### 6.2.4 Basis of Award and Evaluation Factors
+Each submission received by CCCM will be evaluated for technical acceptability. Submissions that are determined to not be technically acceptable after the Contractor has been given the opportunity for a clarification will not be evaluated further.
+
+Quotes must be realistic with respect to technical approach, staffing approach, and total price. Quotes that indicate a lack of understanding of the project requirements may not be considered for award. Quotes may indicate a lack of understanding of the project requirements if the staffing plan does not use a realistic mix of labor categories and hours, or if any proposed hourly labor rates are unrealistically high or low.
+
+CCCM will evaluate quotes that are technically acceptable on a competitive best value basis using a trade-off between technical and price factors. Technically acceptable submissions will be evaluated based on four (4) evaluation factors. These factors are:
+(1) technical approach, (2) staffing approach, (3) similar experience, and (4) price. The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to an Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
+
+#### 6.2.5 Technical Approach
+In evaluating a Contractor's technical approach, CCCM will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
+
+#### 6.2.6 Staffing Approach
+In evaluating a Contractor's staffing approach, CCCM will consider (a) the skills and experience of the Key Personnel and other individuals that the Contractor plans to use to provide the required services, (b) the mix of labor categories that will comprise the Contractor's proposed development team, and (c) the Contractor's proposed number of hours of services to be provided by each member of the Contractor's proposed development team.
+
+#### 6.2.7 Similar Experience
+In evaluating a Contractor's similar experience, CCCM will consider the extent to which the Contractor has recently provided software development services for projects that are similar in size, scope, and complexity to the project described in this RFQ, and the quality of those services. In evaluating the quality of those services, CCCM will consider, among other things, the revision history for all files in the source code samples provided. In considering a Contractor's similar experience, CCCM may also consider information from any other source, including Contractor's prior customers and public websites.
+
+#### 6.2.8 Price
+In evaluating a Contractor's price, CCCM will consider the total of the Contractor's estimated costs for the development services for the base and two option periods.
+
