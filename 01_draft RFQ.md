@@ -185,15 +185,15 @@ If software delivered by the Contractor incorporates software that is subject to
 
 ##### 5.7.1 Invoices
 Invoices for services and/or travel expenses must be submitted to the address (physical or e-mail) specified below. In addition to the requirements defined in sections 5.7.3 and 5.7.4, to constitute a proper invoice, the billing document must include the following information and/or attached documentation:
-(1) Name of Contractor and Contractor’s Taxpayer Identification Number;
-(2) Period covered by invoice and invoice date;
-(3) Purchase order number;
-(4) All invoices for services must set forth in detail the following:
-   (i) Individual performing service each day by hour and quarter of an hour;
-   (ii) Type of services performed each day by hour and quarter of an hour; and
-   (iii) Hourly rate for each service so detailed;
-(5) Any applicable payment discount terms; and
-(6) Total amount billed.
+<br>(1) Name of Contractor and Contractor’s Taxpayer Identification Number;
+<br>(2) Period covered by invoice and invoice date;
+<br>(3) Purchase order number;
+<br>(4) All invoices for services must set forth in detail the following:
+   <br>(i) Individual performing service each day by hour and quarter of an hour;
+   <br>(ii) Type of services performed each day by hour and quarter of an hour; and
+   <br>(iii) Hourly rate for each service so detailed;
+<br>(5) Any applicable payment discount terms; and
+<br>(6) Total amount billed.
 
 ##### 5.7.2 Procedures for Payment
 The government intends to make payment to the Contractor via charge card as outlined in accordance with (IAW) FAR 52.232-36, Payment by Third Party. Pursuant to IAW FAR 32.1108(b)(2)(ii), the contracting officer shall not authorize the Governmentwide commercial purchase card as a method of payment during any period the System for Award Management (SAM)  indicates that the Contractor has delinquent debt subject to collection under the TOP. In such cases, payments under the contract shall be made in accordance with the clause at 52.232-33, Payment by Electronic Funds Transfer-System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer-Other Than System for Award Management, as appropriate (see FAR 32.1110(d)).
@@ -218,26 +218,26 @@ https://vcss.ocfo.gsa.gov/
 Invoices may also be submitted in lieu of electronic submission to:
 
 USDA-OCFO
-Financial Information & Operations Division
-Financial Operations & Disbursement Branch
-2300 Main Street – 2SE
-Kansas City, MO 64108
-Tel: (800) 676-3690/(816) 926-7287
-Fax: (816) 926-5189
+<br>Financial Information & Operations Division
+<br>Financial Operations & Disbursement Branch
+<br>2300 Main Street – 2SE
+<br>Kansas City, MO 64108
+<br>Tel: (800) 676-3690/(816) 926-7287
+<br>Fax: (816) 926-5189
 
 A duplicate electronic invoice with supporting documentation shall be sent electronically to the COR and CO. The COR will confirm performance made against the invoiced line items to ensure that the correct amounts have been billed and will document any price deductions. The COR will then certify and provide a signature indicating that the invoice is valid for payment. Invoices are authorized for payment upon the Government’s receipt and acceptance of deliverables specified in the task order and the receipt of a valid invoice. Invoices shall be rendered no later than the 15th calendar day of the month following performance and must be accompanied by all status reports submitted during that period. The COR must receive a copy of the invoice and all supporting documentation (i.e. list of daily hours worked by each of the vendor’s employees (also summed up as weekly and monthly for each person) before or at the same time as the GSA Finance Office. All final invoices must be submitted no later than thirty (30) calendar days after the last day of the month for which the charges, either labor and/or ODCs, were incurred. The Contractor may invoice only for hours, travel, and/or unique services ordered by GSA and actually used in direct support of the program office for this task order.
 
 Invoices must include the following:
-(1) Name and address of the Contractor
-(2) Invoice date and number
-(3) GSA Multiple Award Schedule (MAS) Information Technology Professional Services Contract Number, line item number and, if applicable, the order number
-(4) Description, quantity, unit of measure, unit price and extended price of the items delivered
-(5) Shipping number and date of shipment, including the bill of lading number and weight of shipment if shipped on a Government bill of lading
-(6) Terms of any discount for prompt payment offered
-(7) Name and address of official to whom payment is to be sent
-(8) Name, title, and phone number of person to notify in event of defective invoice
-(9) Taxpayer Identification Number (TIN). The Contractor shall include its TIN on the invoice only if required elsewhere in this contract
-(10) Electronic funds transfer (EFT) banking information
+<br>(1) Name and address of the Contractor
+<br>(2) Invoice date and number
+<br>(3) GSA Multiple Award Schedule (MAS) Information Technology Professional Services Contract Number, line item number and, if applicable, the order number
+<br>(4) Description, quantity, unit of measure, unit price and extended price of the items delivered
+<br>(5) Shipping number and date of shipment, including the bill of lading number and weight of shipment if shipped on a Government bill of lading
+<br>(6) Terms of any discount for prompt payment offered
+<br>(7) Name and address of official to whom payment is to be sent
+<br>(8) Name, title, and phone number of person to notify in event of defective invoice
+<br>(9) Taxpayer Identification Number (TIN). The Contractor shall include its TIN on the invoice only if required elsewhere in this contract
+<br>(10) Electronic funds transfer (EFT) banking information
 
 Note: Failure to comply with the procedures outlined above may result in the invoice being rejected, or your payment being delayed.
 
@@ -324,7 +324,11 @@ Each submission received by CCCM will be evaluated for technical acceptability. 
 Quotes must be realistic with respect to technical approach, staffing approach, and total price. Quotes that indicate a lack of understanding of the project requirements may not be considered for award. Quotes may indicate a lack of understanding of the project requirements if the staffing plan does not use a realistic mix of labor categories and hours, or if any proposed hourly labor rates are unrealistically high or low.
 
 CCCM will evaluate quotes that are technically acceptable on a competitive best value basis using a trade-off between technical and price factors. Technically acceptable submissions will be evaluated based on four (4) evaluation factors. These factors are:
-(1) technical approach, (2) staffing approach, (3) similar experience, and (4) price. The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to an Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
+<br>(1) technical approach,
+<br>(2) staffing approach, 
+<br>(3) similar experience, and 
+<br>(4) price. 
+<br>The three (3) technical, non-price evaluation factors, when combined, are significantly more important than price. CCCM may make an award to an Contractor that demonstrates an advantage with respect to technical, non-price factors, even if such an award would result in a higher total price to CCCM. The importance of price in the evaluation will increase with the degree of equality between Contractors with respect to the non-price factors, or when the Contractor's price is so significantly high as to diminish the value to CCCM of the Contractor's advantage in the non-price factors.
 
 #### 6.2.5 Technical Approach
 In evaluating a Contractor's technical approach, CCCM will consider (a) the quality of the Contractor's plans to provide the open source, agile development services required, (b) the extent of the Contractor's understanding of the details of the project requirements, and (c) the extent to which the Contractor has identified potential obstacles to efficient development, and has proposed realistic approaches to overcome those potential obstacles.
