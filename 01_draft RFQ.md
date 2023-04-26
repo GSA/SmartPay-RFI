@@ -136,7 +136,7 @@ The following chart sets forth the performance standards and quality levels the 
 
 
 ### 4.0 Contract Place of Performance and Contract Type
-The Contractor may choose the location(s) from which to perform the required software development services so long as the work is performed in the Contiguous United States (CONUS). CONUS is defined as the 48 contiguous States and the District of Columbia. CCCM’s core customer service hours are 8:00 - 4:00 pm ET; we expect the software development team would be available 11:00 - 4:00 pm ET, but we would need an assigned point of contact outside those hours if urgent matters arise. 
+The Contractor may choose the location(s) from which to perform the required software development services so long as the work is performed in the Contiguous United States (CONUS). CONUS is defined as the 48 contiguous States and the District of Columbia. CCCM’s core customer service hours are 8:00 am - 4:00 pm ET; we expect the software development team would be available 11:00 am - 4:00 pm ET, but we would need an assigned point of contact outside those hours if urgent matters arise. 
 
 CCCM intends to issue a time and materials task order under an existing contract under the Multiple Award Schedule (“Schedules”) Technology's Special Item Number (SIN) 54151S for IT Professional Services, and all quotes must be submitted on that basis. CCCM will not consider quotes that include fees for licenses or subscriptions. 
 
