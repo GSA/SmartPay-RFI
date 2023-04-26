@@ -39,9 +39,9 @@ All information posted on the GSA SmartPay main website and GSA SmartPay trainin
 Currently, the CCCM program has partnered with the GSA Service Delivery team on building a minimally viable product (MVP) of the main website and training website using an iterative and user-centered delivery cadence. The Service Delivery team expects the MVP to be delivered by summer 2023 and will work with the Contractor to transition the project. 
 
 The new GSA SmartPay website (GitHub) will:
-Be hosted on Cloud.gov Pages (formerly known as Federalist).
-Leverage the static site generator, Eleventy.
-Incorporate the U.S. Web Design System. 
+- Be hosted on Cloud.gov Pages (formerly known as Federalist).
+- Leverage the static site generator, Eleventy.
+- Incorporate the U.S. Web Design System. 
 
 Note: the information above for the 889 representation tool will remain the same post-MVP. 
 
