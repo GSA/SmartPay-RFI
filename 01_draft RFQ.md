@@ -44,9 +44,9 @@ The new GSA SmartPay main website ([GitHub](https://github.com/GSA/smartpay-webs
 - Leverage the static site generator, [Eleventy](https://www.11ty.dev/).
 - Incorporate the [U.S. Web Design System](https://designsystem.digital.gov/). 
 
-The above-mentioned 889 tool will be migrated from Google Cloud Platform to Cloud.gov before launch of the new GSA SmartPay main website.
+The above-mentioned 889 tool will be migrated from Google Cloud Platform to Cloud.gov and Cloud.gov Pages before launch of the new GSA SmartPay main website.
 
-The new GSA SmartPay training website ([GitHub](https://github.com/GSA/smartpay-training)) will be a combination of static web content and a custom training application with a database component. The training website will be hosted on Cloud.gov. 
+The new GSA SmartPay training website ([GitHub](https://github.com/GSA/smartpay-training)) will be a combination of static web content and a custom training application with a database component. The training website will be hosted on Cloud.gov and Cloud.gov Pages.
 
 ##### 1.1.3 Future state
 
@@ -136,5 +136,115 @@ The following chart sets forth the performance standards and quality levels the 
 
 
 ### 4.0 Contract Place of Performance and Contract Type
+The Contractor may choose the location(s) from which to perform the required software development services so long as the work is performed in the Contiguous United States (CONUS). CONUS is defined as the 48 contiguous States and the District of Columbia. CCCM’s core customer service hours are 8:00 - 4:00 pm ET; we expect the software development team would be available 11:00 - 4:00 pm ET, but we would need an assigned point of contact outside those hours if urgent matters arise. 
+
+CCCM intends to issue a time and materials task order under an existing contract under the Multiple Award Schedule (“Schedules”) Technology's Special Item Number (SIN) 54151S for IT Professional Services, and all quotes must be submitted on that basis. CCCM will not consider quotes that include fees for licenses or subscriptions. 
+
+
 ### 5.0 Operating Constraints (Non-functional Requirements)
+
+#### 5.1	Environment
+- Software development services will occur in the GSA SmartPay Github environment(s).
+- Website usage will be tracked with the [Digital Analytics Program](https://digital.gov/guides/dap/). 
+- Hosting will be on Cloud.gov Pages for building and serving front-end static assets and Cloud.gov for serving APIs and hosting the database and other backend services. Services are provided through an intra agency agreement that CCCM has in place with Cloud.gov.
+- Current coding languages are Python for the back-end and JavaScript (Astro and Vue.js) for the front-end. The government is not prescribing that these must be the coding language(s) moving forward.
+
+#### 5.2	Design
+- Software development services shall leverage the [U.S. Web Design System](https://designsystem.digital.gov/).
+- Content development will follow CCCM [style guide](https://github.com/GSA/smartpay-website/wiki/GSA-SmartPay%C2%AE-%7C-Style-Guide-for-the-Website-and-Training-Platform).
+
+#### 5.3 	System Access 
+- All Contractor personnel working under the task order will need to be U.S. citizens. 
+- Homeland Security Presidential Directive 12 (HSPD-12) applies to Contractor development personnel as such performance requires access to internal Government information technology (IT) systems.  As a result of HSPD-12 applicability to the requirements of this document, the Government will perform all required background investigations for Contractor personnel, and the Contractor shall ensure their personnel requiring physical access to Federally- controlled information technology systems have identification that complies with HSPD-12 policy. Immediately upon award the credential process shall commence. All identified Contractor personnel must complete a GSA Form 850 – Contractor Information Worksheet (CIW) to be provided with the proposal submission. The Contractor will not be given the Notice to Proceed (NTP) to start work until all Contractor personnel have the proper identification to satisfy this requirement.
+- Medium risk security clearance (Tier 2) shall be required
+- [NIST](https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication) phishing resistant multi-factor authentication (MFA) shall be required for privileged and non-privileged users where login is required.  
+
+#### 5.4	Security
+The Contractor shall comply with the technology security requirements in the Federal Information Security Management Act (FISMA) (44 .S.C. 3544); the applicable National Institute of Standards and Technology; GSA IT security policies, standards and guidelines; and other Government-wide laws and regulations for protection and security of IT. The required policies and regulations are specified in Security and Privacy Requirements for IT Acquisition Efforts CIO-IT Security-09-48 (Attachment A) or latest version and Managing Enterprise Cybersecurity Risk CIO-IT Security-06-30 or latest version (Attachment B). 
+
+Security compliance will be continuous through DevSecOps practices and via user stories issued in sprint planning. Additional information about security and confidentiality requirements can be found in the current version of CIO_21001N_GSA_Information_Technology_Security_Policy (Attachment C).
+
+##### 5.4.1 Specific Security Requirements
+The Contractor shall have all staff members complete a confidentiality agreement prior to starting contract performance. 
+
+#### 5.5	Personnel Skills and Knowledge
+_Key Personnel_ – The Contractor must designate both a Project Manager (PM) and a Technical Lead (or labor category equivalent) as Key Personnel for this project. The PM will be a direct liaison to the CCCM product team, and will be responsible for the supervision and management of all of the Contractor’s personnel. The Technical Lead must have a full understanding of the technical approach to be used by the Contractor’s development team and will be responsible for ensuring that the Contractor’s development team follows that approach.
+
+_Key Personnel Substitution_ – Key Personnel substitutions must be approved by CCCM in writing. Contractor requests for a substitution of Key Personnel must include a detailed explanation of the justifying circumstances, and a complete résumé for the proposed substitute or addition, including skills, experience, education, training, and security level. 
+
+_Teaming Arrangements_ – No teaming will be permitted.
+
+#### 5.6	Special Clauses
+_Data Rights and Ownership of Deliverables_ – CCCM intends that all software and documentation delivered by the Contractor will be owned by CCCM and committed to the public domain. This software and documentation includes, but is not limited to, data, documents, graphics, code, plans, reports, schedules, schemas, metadata, architecture designs, and the like; all new open source software created by the Contractor and forks or branches of current open source software where the Contractor has made a modification; and all new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
+
+To the extent that the Contractor seeks to incorporate any software that was not first produced in the performance of this task order in the software delivered under this task order, CCCM encourages the Contractor to incorporate either software that is in the public domain, or free and open source software that qualifies under the Open Source Definition promulgated by the Open Source Initiative. The Contractor must obtain written permission from CCCM before incorporating into the delivered software any software that is subject to a license that does not qualify under the Open Source Definition promulgated by the Open Source Initiative. If CCCM grants such written permission, then the Contractor’s rights to use that software must be promptly assigned to CCCM.
+
+If software delivered by the Contractor incorporates software that is subject to an open source license that provides implementation guidance, then the Contractor must ensure compliance with that guidance. If software delivered by the Contractor incorporates software that is subject to an open source license that does not provide implementation guidance, then the Contractor must attach or include the terms of the license within the work itself, such as in code comments at the beginning of a file, or in a license file within a software repository.
+
+#### 5.7 Invoicing/Payment
+
+##### 5.7.1 Invoices
+Invoices for services and/or travel expenses must be submitted to the address (physical or e-mail) specified below. In addition to the requirements defined in sections 5.7.3 and 5.7.4, to constitute a proper invoice, the billing document must include the following information and/or attached documentation:
+(1) Name of Contractor and Contractor’s Taxpayer Identification Number;
+(2) Period covered by invoice and invoice date;
+(3) Purchase order number;
+(4) All invoices for services must set forth in detail the following:
+   (i) Individual performing service each day by hour and quarter of an hour;
+   (ii) Type of services performed each day by hour and quarter of an hour; and
+   (iii) Hourly rate for each service so detailed;
+(5) Any applicable payment discount terms; and
+(6) Total amount billed.
+
+##### 5.7.2 Procedures for Payment
+The government intends to make payment to the Contractor via charge card as outlined in accordance with (IAW) FAR 52.232-36, Payment by Third Party. Pursuant to IAW FAR 32.1108(b)(2)(ii), the contracting officer shall not authorize the Governmentwide commercial purchase card as a method of payment during any period the System for Award Management (SAM)  indicates that the Contractor has delinquent debt subject to collection under the TOP. In such cases, payments under the contract shall be made in accordance with the clause at 52.232-33, Payment by Electronic Funds Transfer-System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer-Other Than System for Award Management, as appropriate (see FAR 32.1110(d)).
+
+##### 5.7.3 Payment by Governmentwide commercial purchase card
+The Contractor shall submit invoices not more frequently than once per month. Payment shall be made in accordance with the clause found at FAR 52.232-36, Payment by Third Party. The Contractor shall make payment requests through a charge to the Government account with the third party, at the time and for the amount due in accordance with those clauses of this contract that authorize the Contractor to submit invoices, contract financing requests, other payment requests, or as provided in other clauses providing for payment to the Contractor.
+
+On each invoice, the Contractor shall provide a summary of each billed CLIN. The summary shall include by each invoiced CLIN: CLIN number and description, as well as the invoiced amount. The invoice shall also provide a total amount, across all CLINs, billed to date. The Contractor shall not bill, nor be reimbursed, for any charges that are not specifically stated in this task order or incorporated via a written modification issued by the CO.
+
+Please note, the payment via purchase card is rescinded should the Contractor's System for Award Management (SAM) registration indicate that the Contractor has delinquent debt that is subject to collection under the Treasury Offset Program (TOP).
+
+##### 5.7.4 Electronic Funds Transfer Method
+The Contractor shall submit invoices not more frequently than once per month. Payment shall be made in accordance with the clause found at FAR 52.212-4 Contract Terms and Conditions – Commercial Items (Nov 2021), paragraph(g), following receipt of properly executed invoices prepared in accordance with the requirements of this task order.
+
+On each invoice, the Contractor shall provide a summary of each billed CLIN. The summary shall include by each invoiced CLIN: CLIN number and description, as well as the invoiced amount. The invoice shall also provide a total amount, across all CLINs, billed to date. The Contractor shall not bill, nor be reimbursed, for any charges that are not specifically stated in this task order or incorporated via a written modification issued by the CO.
+
+The Contractor has the option to submit an electronic or hard copy original invoice for payment to GSA Financial Information & Operations Division.
+
+Electronic Invoices are encouraged and may be submitted to the following address:
+https://vcss.ocfo.gsa.gov/
+
+Invoices may also be submitted in lieu of electronic submission to:
+
+USDA-OCFO
+Financial Information & Operations Division
+Financial Operations & Disbursement Branch
+2300 Main Street – 2SE
+Kansas City, MO 64108
+Tel: (800) 676-3690/(816) 926-7287
+Fax: (816) 926-5189
+
+A duplicate electronic invoice with supporting documentation shall be sent electronically to the COR and CO. The COR will confirm performance made against the invoiced line items to ensure that the correct amounts have been billed and will document any price deductions. The COR will then certify and provide a signature indicating that the invoice is valid for payment. Invoices are authorized for payment upon the Government’s receipt and acceptance of deliverables specified in the task order and the receipt of a valid invoice. Invoices shall be rendered no later than the 15th calendar day of the month following performance and must be accompanied by all status reports submitted during that period. The COR must receive a copy of the invoice and all supporting documentation (i.e. list of daily hours worked by each of the vendor’s employees (also summed up as weekly and monthly for each person) before or at the same time as the GSA Finance Office. All final invoices must be submitted no later than thirty (30) calendar days after the last day of the month for which the charges, either labor and/or ODCs, were incurred. The Contractor may invoice only for hours, travel, and/or unique services ordered by GSA and actually used in direct support of the program office for this task order.
+
+Invoices must include the following:
+(1) Name and address of the Contractor
+(2) Invoice date and number
+(3) GSA Multiple Award Schedule (MAS) Information Technology Professional Services Contract Number, line item number and, if applicable, the order number
+(4) Description, quantity, unit of measure, unit price and extended price of the items delivered
+(5) Shipping number and date of shipment, including the bill of lading number and weight of shipment if shipped on a Government bill of lading
+(6) Terms of any discount for prompt payment offered
+(7) Name and address of official to whom payment is to be sent
+(8) Name, title, and phone number of person to notify in event of defective invoice
+(9) Taxpayer Identification Number (TIN). The Contractor shall include its TIN on the invoice only if required elsewhere in this contract
+(10) Electronic funds transfer (EFT) banking information
+
+Note: Failure to comply with the procedures outlined above may result in the invoice being rejected, or your payment being delayed.
+
+#### 5.8 Limitation of Funds 
+
+The Contractor shall notify the CO in writing when it has reason to believe that the costs it expects to incur under this contract in the next 60 days, when added to all costs previously incurred, will exceed 75 percent of (1) the total amount so far allotted to the contract by the government. The notice shall state the estimated amount of additional funds required to continue performance for the period specified in the contract. 
+
+Sixty days before the end of the period specified in the contract, the Contractor shall notify the CO in writing of the estimated amount of additional funds, if any, required to continue timely performance under the contract or for any further period specified in the contract or otherwise agreed upon, and when the funds will be required.
+
 ### 6.0 Instructions and Evaluation
