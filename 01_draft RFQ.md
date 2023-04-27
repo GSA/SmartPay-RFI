@@ -184,7 +184,7 @@ If software delivered by the Contractor incorporates software that is subject to
 #### 5.7 Invoicing/Payment
 
 ##### 5.7.1 Invoices
-Invoices for services and/or travel expenses must be submitted to the address (physical or e-mail) specified below. In addition to the requirements defined in sections 5.7.3 and 5.7.4, to constitute a proper invoice, the billing document must include the following information and/or attached documentation:
+In addition to the requirements defined in sections 5.7.3 and 5.7.4 below, to constitute a proper invoice, the billing document must include the following information and/or attached documentation:
 
 <br>(1) Name of Contractor and Contractor’s Taxpayer Identification Number;
 <br>(2) Period covered by invoice and invoice date;
