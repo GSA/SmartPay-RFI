@@ -23,7 +23,7 @@ Section 889 of the 2019 National Defense Authorization Act prohibits purchases f
 (2) The GSA SmartPay training website, which is available at https://training.smartpay.gsa.gov/, provides mandatory training to card/account holders, approving officials (AOs), and agency/organization program coordinators (A/OPCs), as required by law and policy. This offering is optional for agencies to use (some prefer to host their own content in their learning management systems). The current GSA SmartPay training website:
 - Is built on a Drupal version 9 with PHP programming.
 - Is hosted on Red Hat Enterprise Linux version 8 servers.
-- Uses a MariaDM database.
+- Uses a MariaDB database.
 - Has five on-demand, HTML-based training courses, which include:
   - Purchase Training for Card/Account Holders/AOs
   - Travel Training for Card/Account Holders/AOs
