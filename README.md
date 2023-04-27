@@ -29,4 +29,4 @@ Proprietary information, if any, should be minimized and must be clearly marked.
 - [Attachment C](https://github.com/GSA/SmartPay-RFI/blob/main/Attachment%20C_CIO_21001N_GSA_Information_Technology_Security_Policy.pdf)
 
 
-The entire draft RFQ may alternatively be downloaded as a single PDF.
+The entire draft RFQ may alternatively be downloaded as a [single PDF](https://github.com/GSA/SmartPay-RFI/blob/main/GSA%20SmartPay%20_%20Draft%20RFQ.pdf).
