@@ -12,7 +12,7 @@ Interested parties are advised that the government will NOT pay for any informat
 
 The information provided in this RFI is subject to change and is not binding on the government. No commitment is being made to procure any of the services discussed, and release of this RFI should not be construed as a commitment or authorization to incur cost for which reimbursement would be required or sought. RFI responses will not receive a government response.
 
-RFI responses should only be submitted via this Google Form. Please note, you will not be able to edit your response after it has been submitted. No emails or other forms of responses will be considered.
+RFI responses should only be submitted via [this Google Form](https://forms.gle/7PpMRWeNYXxLpEnCA). Please note, you will not be able to edit your response after it has been submitted. No emails or other forms of responses will be considered.
 
 Proprietary information, if any, should be minimized and must be clearly marked. To aid the Government, please segregate proprietary information.
 
